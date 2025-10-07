@@ -142,3 +142,7 @@ static/
 braintumordataset.zip
 braintumordataset/
 mri_images/
+
+# Model files
+*.h5
+mri_app/model_train/mri_model.h5
